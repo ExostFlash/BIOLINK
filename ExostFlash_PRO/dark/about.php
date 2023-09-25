@@ -2,8 +2,8 @@
 					    <!-- About -->
 						<div class="pb-0 pb-sm-2">
 		                    <h1 class="title title--h1 first-title title__separate">Who am I ?</h1>
-						    <p>Je suis étudiant en informatique en vue de devenir un développeur à l'avenir, avec une préférence marquée pour le backend. Un développeur n'est pas un réparateur d'ordinateur, hein !</p>
-                            <p>Actuellement, je suis en deuxième année de mon école d'informatique et je travaille dans la restauration à côté. J'aime bien être seul ou avec les gens que j'aime. Quand je code, j'écoute souvent de la musique afin de me concentrer sur le travail. Si tu veux sortir en boîte, au cinéma ou autre, appelle-moi, j'ai besoin de rire et de m'éloigner de mon écran.</p>
+						    <p>I am a computer science student aiming to become a developer in the future, with a strong preference for backend. A developer is not a computer repair person, you know!</p>
+                            <p>Currently, I'm in my second year of computer school and I work in the restaurant industry on the side. I enjoy being alone or with the people I love. When I code, I often listen to music to help me focus on my work. If you want to go out to a club, to the movies, or anything else, give me a call, I need to laugh and get away from my screen.</p>
 					    </div>
 						
 						<!-- What -->
@@ -13,10 +13,10 @@
 							    <!-- Case Item -->
 							    <div class="col-12 col-lg-6">
 							        <div class="case-item box box__second">
-									    <img class="case-item__icon" src="assets/img/SVG/.png" alt="" />
+									    <img class="case-item__icon" src="assets/img/SVG/php.png" alt="" />
 										<div>
-									        <h3 class="title title--h5">title-1</h3>
-										    <p class="case-item__caption">texte-1</p>
+									        <h3 class="title title--h5">PHP</h3>
+										    <p class="case-item__caption">As I enjoy coding the Backend, I had to use PHP, and I find this language very versatile. You can do a lot of things with it, and even connect databases to the website.</p>
 										</div>	
 									</div>
 								</div>
@@ -24,10 +24,10 @@
 								<!-- Case Item -->
 							    <div class="col-12 col-lg-6">
 							        <div class="case-item box box__second">
-									    <img class="case-item__icon" src="assets/img/SVG/.png" alt="" />
+									    <img class="case-item__icon" src="assets/img/SVG/html.png" alt="" />
 										<div>
-									        <h3 class="title title--h5">title-1</h3>
-										    <p class="case-item__caption">texte-1</p>
+									        <h3 class="title title--h5">HTML</h3>
+										    <p class="case-item__caption">HTML (HyperText Markup Language) is a great language too, but I find that we quickly go through it because all HTML codes look alike. It all depends on the project, so I started with this language and I stick with it because I need to do HTML for the Backend, as in PHP, we include HTML.</p>
 										</div>	
 									</div>
 								</div>
@@ -35,10 +35,21 @@
 								<!-- Case Item -->
 							    <div class="col-12 col-lg-6">
 							        <div class="case-item box box__second">
-									    <img class="case-item__icon" src="assets/img/SVG/.png" alt="" />
+									    <img class="case-item__icon" src="assets/img/SVG/sql.png" alt="" />
 										<div>
-									        <h3 class="title title--h5">title-1</h3>
-										    <p class="case-item__caption">texte-1</p>
+									        <h3 class="title title--h5">SQL</h3>
+										    <p class="case-item__caption">SQL (Structured Query Language) is very important, not only for creating databases but also for updating them or using them to display text, results, or many other things. It's useless without PHP for websites, and I find it very easy to use, well, almost ^^</p>
+										</div>	
+									</div>
+								</div>
+
+								<!-- Case Item -->
+							    <div class="col-12 col-lg-6">
+							        <div class="case-item box box__second">
+									    <img class="case-item__icon" src="assets/img/SVG/linux.png" alt="" />
+										<div>
+									        <h3 class="title title--h5">Linux</h3>
+										    <p class="case-item__caption">I use Linux for an countless number of things, such as web servers, database servers, SSH connections, and much more. I've used Ubuntu, Debian, Kali, and many other distributions. I find that Linux is very comprehensive, and the commands in the shell aren't necessarily very difficult.</p>
 										</div>	
 									</div>
 								</div>
