@@ -1,7 +1,7 @@
 <?php
 	// import +
 	
-	$link_bd = $_SERVER['DOCUMENT_ROOT'] . "/Sauvegarde/dbb.php";
+	$link_bd = $_SERVER['DOCUMENT_ROOT'] . "/SauvegardeDB/dbb.php";
 	$nom_de_la_base ="BioLink";
 	include($link_bd);
 	include("function.php");

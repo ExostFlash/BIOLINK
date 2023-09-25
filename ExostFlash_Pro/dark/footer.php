@@ -1,5 +1,5 @@
 <!-- Footer -->
-					<footer class="footer">© 2019 vCard</footer>
+					<footer class="footer">© 2023 BioLink</footer>
 		        </div>
 			</div>
 		</div>	
@@ -21,5 +21,50 @@
 	<script src="assets/js/jquery-3.4.1.min.js"></script>
 	<script src="assets/js/plugins.min.js"></script>
     <script src="assets/js/common.js"></script>
+    <script src="assets/js/mapbox.init.js"></script>
+    <script src="https://www.google.com/recaptcha/enterprise.js?render=6LdD_jwoAAAAAJj_9MX791hv97UlzRps7w2ZOQQD"></script>
+
+    <script>
+        function onClick(e) {
+            e.preventDefault();
+            grecaptcha.enterprise.ready(async () => {
+                const token = await grecaptcha.enterprise.execute('6LdD_jwoAAAAAJj_9MX791hv97UlzRps7w2ZOQQD', {action: 'LOGIN'});
+            });
+        }
+    </script>
+    <script type="text/javascript">
+        // Date de naissance au format "jour mois année"
+        var dateNaissance = new Date("2003-12-04");
+
+        // Date actuelle
+        var dateActuelle = new Date();
+
+        // Calcul de la différence entre les années
+        var differenceAnnees = dateActuelle.getFullYear() - dateNaissance.getFullYear();
+
+        // Vérifier si l'anniversaire de cette année a déjà eu lieu
+        if (dateNaissance.getMonth() > dateActuelle.getMonth() || (dateNaissance.getMonth() === dateActuelle.getMonth() && dateNaissance.getDate() > dateActuelle.getDate())) {
+            differenceAnnees--;
+        }
+        var baliseAge = document.getElementById("age");
+
+        // Insérer l'âge calculé dans la balise <span>
+        baliseAge.textContent = "(" + differenceAnnees + " years)";
+
+    </script>
+
+    <script>
+        // Récupérez l'élément par son ID
+        var element = document.getElementById("<?= $page ?>");
+
+        // Vérifiez si l'élément a été trouvé
+        if (element) {
+            // Ajoutez une classe à l'élément
+            element.classList.add("active");
+        } else {
+            console.log("L'élément n'a pas été trouvé.");
+        }
+    </script>
+
 </body>
 </html>
