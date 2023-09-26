@@ -28,7 +28,7 @@
 									    <article class="timeline__item">
 									        <h5 class="title title--h5 timeline__title">Henri Guillaumet College</h5>
 										    <span class="timeline__period">20?? — 2019</span>
-										    <p class="timeline__description">Well, that’s nothing to say ^^</p>
+										    <p class="timeline__description">Well, there’s nothing to say ^^</p>
 										</article>
 									</div>	
 								</div>
@@ -38,7 +38,7 @@
 									<div class="timeline">
 									    <!-- Item -->
 									    <article class="timeline__item">
-									        <h5 class="title title--h5 timeline__title">Waiter - Beer Akademie</h5>
+									        <h5 class="title title--h5 timeline__title">Waiter - Bier Akademie</h5>
 										    <span class="timeline__period">2022 — Today</span>
 										    <p class="timeline__description">I work as a waiter at the Bier Akademie on weekends and more during holidays.</p>
 										</article>
@@ -78,9 +78,9 @@
 									    <!-- Progress -->
 									    <div class="progress">
                                             <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">
-											    <div class="progress-text"><span>Server setup</span><span>49%</span></div>
+											    <div class="progress-text"><span>Server creation</span><span>49%</span></div>
 											</div>
-											<div class="progress-text"><span>Server setup</span></div>
+											<div class="progress-text"><span>Server creation</span></div>
                                         </div>
 										
 									    <!-- Progress -->

@@ -1,14 +1,14 @@
 
 					    <!-- About -->
 						<div class="pb-0 pb-sm-2">
-		                    <h1 class="title title--h1 first-title title__separate">Who am I ?</h1>
-						    <p>I am a computer science student aiming to become a developer in the future, with a strong preference for backend. A developer is not a computer repair person, you know!</p>
+		                    <h1 class="title title--h1 first-title title__separate">More about myself</h1>
+						    <p>I am a computer science student aiming to become a developer in the future, with a strong preference for backend. A developer is not someone who repairs computers, you know!</p>
                             <p>Currently, I'm in my second year of computer school and I work in the restaurant industry on the side. I enjoy being alone or with the people I love. When I code, I often listen to music to help me focus on my work. If you want to go out to a club, to the movies, or anything else, give me a call, I need to laugh and get away from my screen.</p>
 					    </div>
 						
 						<!-- What -->
 						<div class="box-inner pb-0">
-						    <h2 class="title title--h3">What I'm Doing</h2>
+						    <h2 class="title title--h3">What i am capable of doing </h2>
 							<div class="row">
 							    <!-- Case Item -->
 							    <div class="col-12 col-lg-6">
