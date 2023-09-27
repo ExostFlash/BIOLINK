@@ -64,34 +64,40 @@
                                 <div class="swiper-wrapper">
 								    <!-- Item review -->
                                     <div class="swiper-slide review-item">
-										<svg class="avatar avatar--80" viewBox="0 0 84 84">
-                                            <g class="avatar__hexagon">
-                                                <image xlink:href="assets/img/avatar/.jpg" height="100%" width="100%" />
-                                            </g>
-                                        </svg>
-									    <h4 class="title title--h5">Perso-1</h4>
+                                    	<a title="Linkedin" target="_blank" href="https://fr.linkedin.com/in/v%C3%A9ronique-lacanette">
+											<svg class="avatar avatar--80" viewBox="0 0 84 84">
+												<g class="avatar__hexagon">
+													<image xlink:href="assets/img/avatar/lacanette.jpeg" height="100%" width="100%" />
+												</g>
+											</svg>
+											<h4 class="title title--h5">Véronique Lacanette</h4>
+										</a>
 										<p class="review-item__caption">Text-1</p>
 									</div>
 									
 									<!-- Item review -->
                                     <div class="swiper-slide review-item">
-										<svg class="avatar avatar--80" viewBox="0 0 84 84">
-                                            <g class="avatar__hexagon">
-                                                <image xlink:href="assets/img/avatar/.jpg" height="100%" width="100%" />
-                                            </g>
-                                        </svg>
-									    <h4 class="title title--h5">Perso-1</h4>
+                                    	<a title="Linkedin" target="_blank" href="https://fr.linkedin.com/in/v%C3%A9ronique-lacanette">
+											<svg class="avatar avatar--80" viewBox="0 0 84 84">
+												<g class="avatar__hexagon">
+													<image xlink:href="assets/img/avatar/lacanette.jpeg" height="100%" width="100%" />
+												</g>
+											</svg>
+											<h4 class="title title--h5">Véronique Lacanette</h4>
+										</a>
 										<p class="review-item__caption">Text-1</p>
 									</div>
 
 									<!-- Item review -->
                                     <div class="swiper-slide review-item">
-										<svg class="avatar avatar--80" viewBox="0 0 84 84">
-                                            <g class="avatar__hexagon">
-                                                <image xlink:href="assets/img/avatar/.jpg" height="100%" width="100%" />
-                                            </g>
-                                        </svg>
-									    <h4 class="title title--h5">Perso-1</h4>
+                                    	<a title="Linkedin" target="_blank" href="https://fr.linkedin.com/in/jeanmarcbenito">
+											<svg class="avatar avatar--80" viewBox="0 0 84 84">
+												<g class="avatar__hexagon">
+													<image xlink:href="assets/img/avatar/benito.jpeg" height="100%" width="100%" />
+												</g>
+											</svg>
+											<h4 class="title title--h5">Jean-Marc Benito</h4>
+										</a>
 										<p class="review-item__caption">Text-1</p>
 									</div>
                                 </div>

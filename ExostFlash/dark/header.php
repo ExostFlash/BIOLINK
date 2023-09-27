@@ -5,6 +5,10 @@
     <meta charset="utf-8" />
     <title>BioLink - <?= $page ?></title>
 
+    <meta name="description" content="Bio de ExostFlash pour en savoir plus sur lui !">
+    <meta name="keywords" content="ExostFlash biolink code escrime discord insta bio">
+    <meta name="author" content="ExostFlash">
+
 	<!-- Meta Data -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
