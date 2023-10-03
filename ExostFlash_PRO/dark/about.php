@@ -74,6 +74,19 @@
 										</a>
 										<p class="review-item__caption">Amaury has been working within our company for two and a half years. He has always been punctual and diligent in his work, and he is a full-fledged member of our team, even though he works part-time. In the current period, finding a young person of his age who is as motivated to work and finance his studies is an asset, a strength, and a pleasure. I encourage Amaury to persevere in this path, and I will support him in his future projects.</p>
 									</div>
+
+									<!-- Item review -->
+                                    <div class="swiper-slide review-item">
+                                    	<a title="Linkedin" target="_blank" href="#">
+											<svg class="avatar avatar--80" viewBox="0 0 84 84">
+												<g class="avatar__hexagon">
+													<image xlink:href="assets/img/avatar-4.jpg" height="100%" width="100%" />
+												</g>
+											</svg>
+											<h4 class="title title--h5">Muriel Petit</h4>
+										</a>
+										<p class="review-item__caption">Text-1</p>
+									</div>
 									
 									<!-- Item review -->
                                     <div class="swiper-slide review-item">
@@ -97,6 +110,19 @@
 												</g>
 											</svg>
 											<h4 class="title title--h5">Jean-Marc Benito</h4>
+										</a>
+										<p class="review-item__caption">Text-1</p>
+									</div>
+
+									<!-- Item review -->
+                                    <div class="swiper-slide review-item">
+                                    	<a title="Linkedin" target="_blank" href="https://www.linkedin.com/in/laurent-gauthier-10917914a/">
+											<svg class="avatar avatar--80" viewBox="0 0 84 84">
+												<g class="avatar__hexagon">
+													<image xlink:href="assets/img/avatar-5.jpg" height="100%" width="100%" />
+												</g>
+											</svg>
+											<h4 class="title title--h5">Laurent Gauthier</h4>
 										</a>
 										<p class="review-item__caption">Text-1</p>
 									</div>
