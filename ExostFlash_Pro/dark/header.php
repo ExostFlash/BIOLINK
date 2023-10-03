@@ -97,14 +97,14 @@
 							        <i class="font-icon icon-location"></i>Toulouse, France
 							    </li>
 						        <li class="contacts-block__item" data-toggle="tooltip" data-placement="top" title="E-mail">
-							        <a target="_blank" href="mailto:exostflash.pro@gmail.com"><i class="font-icon icon-envelope"></i>exostflash.pro@gmail.com</a>
+							        <a target="_blank" href="mailto:amaury.maizy@campus-igs-toulouse.fr"><i class="font-icon icon-envelope"></i>amaury.maizy@campus-igs-toulouse.fr</a>
 							    </li>
 						        <li class="contacts-block__item" data-toggle="tooltip" data-placement="top" title="Téléphone" hidden>
 							        <i class="font-icon icon-phone"></i>+33 6.00.00.00.00
 							    </li>
 					        </ul>
 							
-							<a class="btn" href="CV/amaurymaizy-CV.pdf"><i class="font-icon icon-download"></i> Download CV</a>
+							<a class="btn" href="assets/CV/amaurymaizy-CV.pdf"><i class="font-icon icon-download"></i> Download CV</a>
 						</div>
 					</div>	
 		        </aside>

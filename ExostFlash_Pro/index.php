@@ -1,14 +1,8 @@
 <?php
-	// import +
-	
-	$link_bd = $_SERVER['DOCUMENT_ROOT'] . "/SauvegardeDB/dbb.php";
-	$nom_de_la_base ="BioLink";
-	include($link_bd);
-	include("function.php");
+
+	$link_bd = NULL;
 
 	// page
-
-	session_start();
 
 	if (isset($_GET['id_post'])) {
 		$id_post_page = $_GET['id_post'];
@@ -16,10 +10,20 @@
 
 	if (isset($_GET['page'])) {
 		$page = $_GET['page'];
+		if ($page == "blog") {
+			$link_bd = $_SERVER['DOCUMENT_ROOT'] . "/SauvegardeDB/dbb.php";
+			$nom_de_la_base ="BioLink";
+		}
 	}
 	else {
 		$page = "about";
 	}
+	// import +
+	
+	include($link_bd);
+	include("function.php");
+
+	session_start();
 
 ?>
 

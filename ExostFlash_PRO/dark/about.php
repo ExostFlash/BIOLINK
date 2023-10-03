@@ -8,7 +8,7 @@
 						
 						<!-- What -->
 						<div class="box-inner pb-0">
-						    <h2 class="title title--h3">What i am capable of doing </h2>
+						    <h2 class="title title--h3">What I am capable of doing </h2>
 							<div class="row">
 							    <!-- Case Item -->
 							    <div class="col-12 col-lg-6">
@@ -64,15 +64,15 @@
                                 <div class="swiper-wrapper">
 								    <!-- Item review -->
                                     <div class="swiper-slide review-item">
-                                    	<a title="Linkedin" target="_blank" href="https://fr.linkedin.com/in/v%C3%A9ronique-lacanette">
+                                    	<a title="WebSite of restaurant" target="_blank" href="https://www.bierakademie-cornebarrieu.com/">
 											<svg class="avatar avatar--80" viewBox="0 0 84 84">
 												<g class="avatar__hexagon">
-													<image xlink:href="assets/img/avatar/lacanette.jpeg" height="100%" width="100%" />
+													<image xlink:href="assets/img/avatar/vizier.jpg" height="100%" width="100%" />
 												</g>
 											</svg>
-											<h4 class="title title--h5">Véronique Lacanette</h4>
+											<h4 class="title title--h5">Bastien Vizier</h4>
 										</a>
-										<p class="review-item__caption">Text-1</p>
+										<p class="review-item__caption">Amaury has been working within our company for two and a half years. He has always been punctual and diligent in his work, and he is a full-fledged member of our team, even though he works part-time. In the current period, finding a young person of his age who is as motivated to work and finance his studies is an asset, a strength, and a pleasure. I encourage Amaury to persevere in this path, and I will support him in his future projects.</p>
 									</div>
 									
 									<!-- Item review -->
@@ -108,38 +108,22 @@
 						
 						<!-- Clients -->
 						<div class="box-inner">
-						    <h2 class="title title--h3">Where I work</h2>
+						    <h2 class="title title--h3">Where I worked</h2>
 							
 							<div class="swiper-container js-carousel-clients">
                                 <div class="swiper-wrapper">
 
                                     <div class="swiper-slide">
-									    <a href="#"><img src="https://art-template.ru/vcard1/assets/img/logo-partner-white.svg" alt="Logo" /></a>
+									    <a target="_blank" href="https://www.bierakademie-cornebarrieu.com/"><img src="assets/img/SVG/bieraka.png?v=2" alt="Bier Akademie" /></a>
 									</div>
 									
 
                                     <div class="swiper-slide">
-									    <a href="#"><img src="https://art-template.ru/vcard1/assets/img/logo-partner-white.svg" alt="Logo" /></a>
+									    <a target="_blank" href="https://www.ipi-ecoles.com/"><img src="assets/img/SVG/ipi.png?v=1" alt="Ipi Toulouse" /></a>
 									</div>
 
-
-                                    <div class="swiper-slide">
-									    <a href="#"><img src="https://art-template.ru/vcard1/assets/img/logo-partner-white.svg" alt="Logo" /></a>
-									</div>
-
-
-                                    <div class="swiper-slide">
-									    <a href="#"><img src="https://art-template.ru/vcard1/assets/img/logo-partner-white.svg" alt="Logo" /></a>
-									</div>
-									
-
-                                    <div class="swiper-slide">
-									    <a href="#"><img src="https://art-template.ru/vcard1/assets/img/logo-partner-white.svg" alt="Logo" /></a>
-									</div>
-									
-									
-                                    <div class="swiper-slide">
-									    <a href="#"><img src="https://art-template.ru/vcard1/assets/img/logo-partner-white.svg" alt="Logo" /></a>
+									<div class="swiper-slide">
+									    <a target="_blank" href="https://www.lesjardinsdelolympe.com/"><img src="assets/img/SVG/olympe.png?v=3" alt="Les Jardins de l'Olympe" /></a>
 									</div>
 								</div>
 								
