@@ -19,14 +19,14 @@
 			$mail->setLanguage('fr', '../PHPMailer/language/');
 			$mail->SMTPDebug = 0;
 			$mail->isSMTP();
-			$mail->Host       = 'smtp.gmail.com';
+			$mail->Host       = 'ssl0.ovh.net';
 			$mail->SMTPAuth   = true;
 			$mail->Username   = $email;
 			$mail->Password   = $mdp;
 			$mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
 			$mail->Port       = 587;
 
-			$mail->setFrom('postmaster@exostflash.ovh', 'noreply-ExostFlash');
+			$mail->setFrom('no-reply@exostflash.ovh', 'noreply-ExostFlash');
 			$mail->addAddress($destinataire);
 
 			$mail->isHTML(true);
