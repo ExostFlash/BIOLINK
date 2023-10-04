@@ -70,22 +70,22 @@
 													<image xlink:href="assets/img/avatar/vizier.jpg" height="100%" width="100%" />
 												</g>
 											</svg>
-											<h4 class="title title--h5">Bastien Vizier</h4>
+											<h4 class="title title--h5">Bastien VIZIER</h4>
 										</a>
 										<p class="review-item__caption">Amaury has been working within our company for two and a half years. He has always been punctual and diligent in his work, and he is a full-fledged member of our team, even though he works part-time. In the current period, finding a young person of his age who is as motivated to work and finance his studies is an asset, a strength, and a pleasure. I encourage Amaury to persevere in this path, and I will support him in his future projects.</p>
 									</div>
 
 									<!-- Item review -->
                                     <div class="swiper-slide review-item">
-                                    	<a title="Linkedin" target="_blank" href="#">
+                                    	<a title="..." target="_blank" href="#">
 											<svg class="avatar avatar--80" viewBox="0 0 84 84">
 												<g class="avatar__hexagon">
-													<image xlink:href="assets/img/avatar-4.jpg" height="100%" width="100%" />
+													<image xlink:href="assets/img/avatar/profil.png?v=1" height="100%" width="100%" />
 												</g>
 											</svg>
-											<h4 class="title title--h5">Muriel Petit</h4>
+											<h4 class="title title--h5">Muriel PETIT</h4>
 										</a>
-										<p class="review-item__caption">Text-1</p>
+										<p class="review-item__caption">Did you know that this testimonial was the best-kept secret of my resume? Soon, I will share it with you! Stay tuned!</p>
 									</div>
 									
 									<!-- Item review -->
@@ -96,9 +96,9 @@
 													<image xlink:href="assets/img/avatar/lacanette.jpeg" height="100%" width="100%" />
 												</g>
 											</svg>
-											<h4 class="title title--h5">Véronique Lacanette</h4>
+											<h4 class="title title--h5">Véronique LACANETTE</h4>
 										</a>
-										<p class="review-item__caption">Text-1</p>
+										<p class="review-item__caption">Did you know that this testimonial was the best-kept secret of my resume? Soon, I will share it with you! Stay tuned!</p>
 									</div>
 
 									<!-- Item review -->
@@ -109,9 +109,9 @@
 													<image xlink:href="assets/img/avatar/benito.jpeg" height="100%" width="100%" />
 												</g>
 											</svg>
-											<h4 class="title title--h5">Jean-Marc Benito</h4>
+											<h4 class="title title--h5">Jean-Marc BENITO</h4>
 										</a>
-										<p class="review-item__caption">Text-1</p>
+										<p class="review-item__caption">Did you know that this testimonial was the best-kept secret of my resume? Soon, I will share it with you! Stay tuned!</p>
 									</div>
 
 									<!-- Item review -->
@@ -119,12 +119,12 @@
                                     	<a title="Linkedin" target="_blank" href="https://www.linkedin.com/in/laurent-gauthier-10917914a/">
 											<svg class="avatar avatar--80" viewBox="0 0 84 84">
 												<g class="avatar__hexagon">
-													<image xlink:href="assets/img/avatar-5.jpg" height="100%" width="100%" />
+													<image xlink:href="assets/img/avatar/profil.png?v=1" height="100%" width="100%" />
 												</g>
 											</svg>
-											<h4 class="title title--h5">Laurent Gauthier</h4>
+											<h4 class="title title--h5">Laurent GAUTHIER</h4>
 										</a>
-										<p class="review-item__caption">Text-1</p>
+										<p class="review-item__caption">Amaury is a motivated and diligent employee who stands out for his unwavering commitment and productivity. His dedication to his work and his willingness to always give his best make him a high-quality employee.</p>
 									</div>
                                 </div>
     
