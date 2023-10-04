@@ -44,7 +44,7 @@
 		$message = valid_donnees($_REQUEST['messageContact']);
 
 
-		$dest = "exostflash.pro@gmail.com";
+		$dest = "no-reply@exostflash.ovh";
 		$objet = "Contact de ". $name ." via le site";
 		$contenu = "<br />Monsieur ". $name ." vous contacte via le site <a href='https://exostflash.ovh/BIOLINK/ExostFlash_PRO/'>BioLink ExostFlash</a>";
 		$contenu .= "<br /><br />Message : ". $message;
