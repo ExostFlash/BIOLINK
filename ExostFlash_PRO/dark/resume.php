@@ -7,7 +7,7 @@
 						<div class="pb-0">
 							<div class="row">
 								<div class="col-12 col-lg-6">
-									<h2 class="title title--h3"><img class="title-icon" src="assets/img/SVG/etude.svg" alt="" /> Education</h2>
+									<h2 class="title title--h3"><img class="title-icon" src="assets/img/SVG/etude.svg?v=2" alt="" /> Education</h2>
 									<div class="timeline">
 										<!-- Item -->
 										<article class="timeline__item">

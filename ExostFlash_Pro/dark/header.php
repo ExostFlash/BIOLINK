@@ -105,7 +105,7 @@
 								</li>
 							</ul>
 
-							<a class="btn" href="assets/CV/amaurymaizy-CV.pdf"><i class="font-icon icon-download"></i> Download CV</a>
+							<a class="btn" target="_blank" href=" assets/CV/amaurymaizy-CV.pdf"><i class="font-icon icon-download"></i> Download CV</a>
 						</div>
 					</div>
 				</aside>
