@@ -2,7 +2,7 @@
 <div class="pb-0 pb-sm-2">
 	<h1 class="title title--h1 first-title title__separate">More about myself</h1>
 	<p>I am a computer science student aiming to become a developer in the future, with a strong preference for backend. A developer is not someone who repairs computers, you know!</p>
-	<p>Currently, I'm in my second year of computer school and I work in the restaurant industry on the side. I enjoy being alone or with the people I love. When I code, I often listen to music to help me focus on my work. If you want to go out to a club, to the movies, or anything else, give me a call, I need to laugh and get away from my screen.</p>
+	<p>Currently, I'm in my second year of computer school and I work in the restaurant industry on the side. I enjoy being alone or with the people I love. When I code, I often listen to music to help me focus on my work.</p>
 </div>
 
 <!-- What -->
