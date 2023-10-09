@@ -57,7 +57,7 @@
 	<center>
 		<select class="select" id="selectbox" data-selected="" onchange="changerLangue()">
 			<option value="" disabled="disabled">Sélectionnez une langue</option>
-			<option id="FR" value="FR">Français</option>
+			<option id="FR" selected value="FR">Français</option>
 			<option id="EN" value="EN">English</option>
 		</select>
 	</center>

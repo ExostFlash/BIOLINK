@@ -67,19 +67,6 @@
     }
 </script>
 
-<script>
-    // Récupérez l'élément par son ID
-    var element = document.getElementById("<?= $lang ?>");
-
-    // Vérifiez si l'élément a été trouvé
-    if (element) {
-        // Ajoutez une classe à l'élément
-        element.add("selected");
-    } else {
-        console.log("L'élément n'a pas été trouvé.");
-    }
-</script>
-
 </body>
 
 </html>
