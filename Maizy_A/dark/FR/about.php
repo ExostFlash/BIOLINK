@@ -93,12 +93,12 @@
 				<a title="..." target="_blank" href="#">
 					<svg class="avatar avatar--80" viewBox="0 0 84 84">
 						<g class="avatar__hexagon">
-							<image xlink:href="assets/img/avatar/profil.png?v=1" height="100%" width="100%" />
+							<image xlink:href="assets/img/avatar/petit.jpg?v=2" height="100%" width="100%" />
 						</g>
 					</svg>
 					<h4 class="title title--h5">Muriel PETIT</h4>
 				</a>
-				<p class="review-item__caption">Saviez-vous que ce témoignage était le secret le mieux gardé de mon CV ? Bientôt, je le partagerai avec vous ! Restez à l'écoute!</p>
+				<p class="review-item__caption">Amaury est une personne volontaire qui met tout en œuvre pour atteindre sont but. Il est techniquement doué, il a de très bonnes idées et un côté autodidacte qui facilite sa progression.</p>
 			</div>
 
 			<!-- Item review -->

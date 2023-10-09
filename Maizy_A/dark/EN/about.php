@@ -93,12 +93,12 @@
 				<a title="..." target="_blank" href="#">
 					<svg class="avatar avatar--80" viewBox="0 0 84 84">
 						<g class="avatar__hexagon">
-							<image xlink:href="assets/img/avatar/profil.png?v=1" height="100%" width="100%" />
+							<image xlink:href="assets/img/avatar/petit.jpg?v=2" height="100%" width="100%" />
 						</g>
 					</svg>
 					<h4 class="title title--h5">Muriel PETIT</h4>
 				</a>
-				<p class="review-item__caption">Did you know that this testimonial was the best-kept secret of my resume? Soon, I will share it with you! Stay tuned!</p>
+				<p class="review-item__caption">Amaury is a strong-willed person who does everything possible to achieve his goal. He is technically gifted, he has very good ideas and a self-taught side which facilitates his progress.</p>
 			</div>
 
 			<!-- Item review -->
