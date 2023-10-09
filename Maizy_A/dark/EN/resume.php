@@ -101,7 +101,7 @@
 								</div>
 
 								<div class="col-12 col-lg-6 mt-4 mt-lg-0">
-									<h2 class="title title--h3">Coding skills</h2>
+									<h2 class="title title--h3">CODING SKILLS</h2>
 									<div class="box box__second">
 										<!-- Progress -->
 										<div class="progress">

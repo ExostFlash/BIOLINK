@@ -28,7 +28,7 @@ function sendmail($db, $objet, $contenu, $destinataire)
 		$mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
 		$mail->Port       = 587;
 
-		$mail->setFrom('no-reply@exostflash.ovh', 'noreply-ExostFlash');
+		$mail->setFrom('no-reply@exostflash.ovh', 'no-reply@exostflash.ovh');
 		$mail->addAddress($destinataire);
 
 		$mail->isHTML(true);

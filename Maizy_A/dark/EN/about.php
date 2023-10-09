@@ -61,28 +61,16 @@
 
 	<div class="swiper-container js-carousel-review">
 		<div class="swiper-wrapper">
-			<!-- Item review -->
-			<div class="swiper-slide review-item">
-				<a title="WebSite of restaurant" target="_blank" href="https://www.bierakademie-cornebarrieu.com/">
-					<svg class="avatar avatar--80" viewBox="0 0 84 84">
-						<g class="avatar__hexagon">
-							<image xlink:href="assets/img/avatar/vizier.jpg" height="100%" width="100%" />
-						</g>
-					</svg>
-					<h4 class="title title--h5">Bastien VIZIER</h4>
-				</a>
-				<p class="review-item__caption">Amaury has been working within our company for two and a half years. He has always been punctual and diligent in his work, and he is a full-fledged member of our team, even though he works part-time. In the current period, finding a young person of his age who is as motivated to work and finance his studies is an asset, a strength, and a pleasure. I encourage Amaury to persevere in this path, and I will support him in his future projects.</p>
-			</div>
 
 			<!-- Item review -->
 			<div class="swiper-slide review-item">
-				<a title="..." target="_blank" href="#">
+				<a title="Linkedin" target="_blank" href="https://fr.linkedin.com/in/jeanmarcbenito">
 					<svg class="avatar avatar--80" viewBox="0 0 84 84">
 						<g class="avatar__hexagon">
-							<image xlink:href="assets/img/avatar/profil.png?v=1" height="100%" width="100%" />
+							<image xlink:href="assets/img/avatar/benito.jpeg" height="100%" width="100%" />
 						</g>
 					</svg>
-					<h4 class="title title--h5">Muriel PETIT</h4>
+					<h4 class="title title--h5">Jean-Marc BENITO</h4>
 				</a>
 				<p class="review-item__caption">Did you know that this testimonial was the best-kept secret of my resume? Soon, I will share it with you! Stay tuned!</p>
 			</div>
@@ -102,15 +90,28 @@
 
 			<!-- Item review -->
 			<div class="swiper-slide review-item">
-				<a title="Linkedin" target="_blank" href="https://fr.linkedin.com/in/jeanmarcbenito">
+				<a title="..." target="_blank" href="#">
 					<svg class="avatar avatar--80" viewBox="0 0 84 84">
 						<g class="avatar__hexagon">
-							<image xlink:href="assets/img/avatar/benito.jpeg" height="100%" width="100%" />
+							<image xlink:href="assets/img/avatar/profil.png?v=1" height="100%" width="100%" />
 						</g>
 					</svg>
-					<h4 class="title title--h5">Jean-Marc BENITO</h4>
+					<h4 class="title title--h5">Muriel PETIT</h4>
 				</a>
 				<p class="review-item__caption">Did you know that this testimonial was the best-kept secret of my resume? Soon, I will share it with you! Stay tuned!</p>
+			</div>
+
+			<!-- Item review -->
+			<div class="swiper-slide review-item">
+				<a title="WebSite of restaurant" target="_blank" href="https://www.bierakademie-cornebarrieu.com/">
+					<svg class="avatar avatar--80" viewBox="0 0 84 84">
+						<g class="avatar__hexagon">
+							<image xlink:href="assets/img/avatar/vizier.jpg" height="100%" width="100%" />
+						</g>
+					</svg>
+					<h4 class="title title--h5">Bastien VIZIER</h4>
+				</a>
+				<p class="review-item__caption">Amaury has been working within our company for two and a half years. He has always been punctual and diligent in his work, and he is a full-fledged member of our team, even though he works part-time. In the current period, finding a young person of his age who is as motivated to work and finance his studies is an asset, a strength, and a pleasure. I encourage Amaury to persevere in this path, and I will support him in his future projects.</p>
 			</div>
 
 			<!-- Item review -->

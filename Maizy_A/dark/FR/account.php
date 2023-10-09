@@ -1,6 +1,6 @@
 <!-- About -->
 <div class="pb-2">
-	<h1 class="title title--h1 first-title title__separate">Account</h1>
+	<h1 class="title title--h1 first-title title__separate">Compte</h1>
 </div>
 
 <div class="pb-0 pb-sm-2">

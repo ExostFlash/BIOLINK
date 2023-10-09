@@ -36,7 +36,7 @@
 	<link rel="shortcut icon" href="/BIOLINK/IMG/favicons/favicon.png" type="image/png">
 
 	<!-- Styles -->
-	<link rel="stylesheet" type="text/css" href="assets/styles/style.css?v=11" />
+	<link rel="stylesheet" type="text/css" href="assets/styles/style.css?v=21" />
 	<link rel="stylesheet" type="text/css" href="assets/styles/style-dark.css?v=11" />
 
 	<script src="https://kit.fontawesome.com/dc1f03fbd3.js" crossorigin="anonymous"></script>
@@ -54,6 +54,25 @@
 			<div class="preloader__progress"><span></span></div>
 		</div>
 	</div>
+	<center>
+		<select class="select" id="selectbox" data-selected="" onchange="changerLangue()">
+			<option value="" selected="selected" disabled="disabled">Select a language</option>
+			<option value="FR">Français</option>
+			<option value="EN">English</option>
+		</select>
+	</center>
+	<script>
+		function changerLangue() {
+			var selectbox = document.getElementById("selectbox");
+			var selectedValue = selectbox.options[selectbox.selectedIndex].value;
+
+			if (selectedValue === "FR") {
+				window.location.href = "?lang=FR&page=<?= $page ?>";
+			} else if (selectedValue === "EN") {
+				window.location.href = "?lang=EN&page=<?= $page ?>";
+			}
+		}
+	</script>
 
 	<main class="main">
 		<div class="container gutter-top">
@@ -105,7 +124,7 @@
 								</li>
 							</ul>
 
-							<a class="btn" target="_blank" href=" assets/CV/amaurymaizy-CV.pdf"><i class="font-icon icon-download"></i> Download CV</a>
+							<a class="btn" target="_blank" href=" assets/CV/amaurymaizy-CV_english.pdf"><i class="font-icon icon-download"></i> Download CV</a>
 						</div>
 					</div>
 				</aside>
@@ -123,9 +142,9 @@
 						</div>
 						<div class="inner-menu js-menu">
 							<ul class="nav">
-								<li class="nav__item"><a id="about" href="?page=about">Presentation</a></li>
-								<li class="nav__item"><a id="resume" href="?page=resume">Career</a></li>
-								<li class="nav__item"><a id="blog" href="?page=blog">Blog</a></li>
-								<li class="nav__item"><a id="contact" href="?page=contact">Contact</a></li>
+								<li class="nav__item"><a id="about" href="?lang=<?= $lang ?>&page=about">Presentation</a></li>
+								<li class="nav__item"><a id="resume" href="?lang=<?= $lang ?>&page=resume">Career</a></li>
+								<li class="nav__item"><a id="blog" href="?lang=<?= $lang ?>&page=blog">Blog</a></li>
+								<li class="nav__item"><a id="contact" href="?lang=<?= $lang ?>&page=contact">Contact</a></li>
 							</ul>
 						</div>
