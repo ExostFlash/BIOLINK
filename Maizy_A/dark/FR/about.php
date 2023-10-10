@@ -1,6 +1,7 @@
 <!-- About -->
 <div class="pb-0 pb-sm-2">
 	<h1 class="title title--h1 first-title title__separate">Plus sur moi</h1>
+	<h4 class="title title--h4 first-title">Recherche Stage Fév. 2024</h4>
 	<p>Je suis un étudiant en informatique souhaitant devenir développeur dans le futur, avec une forte préférence pour le backend. Un développeur n’est pas quelqu’un qui répare des ordinateurs, tu sais !</p>
 	<p>Actuellement, je suis en deuxième année d'école d'informatique et je travaille en parallèle dans la restauration. J'aime être seul ou avec les gens que j'aime. Lorsque je code, j'écoute souvent de la musique pour m'aider à me concentrer sur mon travail.</p>
 </div>
@@ -72,6 +73,7 @@
 					</svg>
 					<h4 class="title title--h5">Jean-Marc BENITO</h4>
 				</a>
+				<p class="review-item__caption" style="color: red;">Directeur - IPI Toulouse</p>
 				<p class="review-item__caption">Saviez-vous que ce témoignage était le secret le mieux gardé de mon CV ? Bientôt, je le partagerai avec vous ! Restez à l'écoute!</p>
 			</div>
 
@@ -85,6 +87,7 @@
 					</svg>
 					<h4 class="title title--h5">Véronique LACANETTE</h4>
 				</a>
+				<p class="review-item__caption" style="color: red;">Responsable Formation - IPI Toulouse</p>
 				<p class="review-item__caption">Saviez-vous que ce témoignage était le secret le mieux gardé de mon CV ? Bientôt, je le partagerai avec vous ! Restez à l'écoute!</p>
 			</div>
 
@@ -98,6 +101,7 @@
 					</svg>
 					<h4 class="title title--h5">Muriel PETIT</h4>
 				</a>
+				<p class="review-item__caption" style="color: red;">Assistante Pédagogique - IPI Toulouse</p>
 				<p class="review-item__caption">Amaury est une personne volontaire qui met tout en œuvre pour atteindre sont but. Il est techniquement doué, il a de très bonnes idées et un côté autodidacte qui facilite sa progression.</p>
 			</div>
 
@@ -111,6 +115,7 @@
 					</svg>
 					<h4 class="title title--h5">Bastien VIZIER</h4>
 				</a>
+				<p class="review-item__caption" style="color: red;">Gérant - Bier Akademie</p>
 				<p class="review-item__caption">Amaury travaille au sein de notre entreprise depuis deux ans et demi. Il a toujours été ponctuel et assidu dans son travail et il est un membre à part entière de notre équipe, même s'il travaille à temps partiel. Dans la période actuelle, trouver un jeune de son âge aussi motivé pour travailler et financer ses études est un atout, une force et un plaisir. J'encourage Amaury à persévérer dans cette voie, et je le soutiendrai dans ses projets futurs.</p>
 			</div>
 
@@ -124,6 +129,7 @@
 					</svg>
 					<h4 class="title title--h5">Laurent GAUTHIER</h4>
 				</a>
+				<p class="review-item__caption" style="color: red;">Gérant - Jardin de l'Olympe</p>
 				<p class="review-item__caption">Amaury est un employé motivé et appliqué qui se démarque par son engagement sans faille et sa productivité. Son dévouement à son travail et sa volonté de toujours donner le meilleur de lui-même font de lui un employé de grande qualité.</p>
 			</div>
 		</div>

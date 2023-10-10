@@ -1,6 +1,7 @@
 <!-- About -->
 <div class="pb-0 pb-sm-2">
 	<h1 class="title title--h1 first-title title__separate">More about myself</h1>
+	<h4 class="title title--h4 first-title">Search Internship Feb. 2024</h4>
 	<p>I am a computer science student aiming to become a developer in the future, with a strong preference for backend. A developer is not someone who repairs computers, you know!</p>
 	<p>Currently, I'm in my second year of computer school and I work in the restaurant industry on the side. I enjoy being alone or with the people I love. When I code, I often listen to music to help me focus on my work.</p>
 </div>
@@ -72,6 +73,7 @@
 					</svg>
 					<h4 class="title title--h5">Jean-Marc BENITO</h4>
 				</a>
+				<p class="review-item__caption" style="color: red;">Director - IPI Toulouse</p>
 				<p class="review-item__caption">Did you know that this testimonial was the best-kept secret of my resume? Soon, I will share it with you! Stay tuned!</p>
 			</div>
 
@@ -85,6 +87,7 @@
 					</svg>
 					<h4 class="title title--h5">Véronique LACANETTE</h4>
 				</a>
+				<p class="review-item__caption" style="color: red;">Training Manager - IPI Toulouse</p>
 				<p class="review-item__caption">Did you know that this testimonial was the best-kept secret of my resume? Soon, I will share it with you! Stay tuned!</p>
 			</div>
 
@@ -98,6 +101,7 @@
 					</svg>
 					<h4 class="title title--h5">Muriel PETIT</h4>
 				</a>
+				<p class="review-item__caption" style="color: red;">Teaching Assistant - IPI Toulouse</p>
 				<p class="review-item__caption">Amaury is a strong-willed person who does everything possible to achieve his goal. He is technically gifted, he has very good ideas and a self-taught side which facilitates his progress.</p>
 			</div>
 
@@ -111,6 +115,7 @@
 					</svg>
 					<h4 class="title title--h5">Bastien VIZIER</h4>
 				</a>
+				<p class="review-item__caption" style="color: red;">Manager - Bier Akademie</p>
 				<p class="review-item__caption">Amaury has been working within our company for two and a half years. He has always been punctual and diligent in his work, and he is a full-fledged member of our team, even though he works part-time. In the current period, finding a young person of his age who is as motivated to work and finance his studies is an asset, a strength, and a pleasure. I encourage Amaury to persevere in this path, and I will support him in his future projects.</p>
 			</div>
 
@@ -124,6 +129,7 @@
 					</svg>
 					<h4 class="title title--h5">Laurent GAUTHIER</h4>
 				</a>
+				<p class="review-item__caption" style="color: red;">Manager - Jardin de l'Olympe</p>
 				<p class="review-item__caption">Amaury is a motivated and diligent employee who stands out for his unwavering commitment and productivity. His dedication to his work and his willingness to always give his best make him a high-quality employee.</p>
 			</div>
 		</div>
