@@ -5,6 +5,10 @@
 	<meta charset="utf-8" />
 	<title>BioLink - <?= $page ?></title>
 
+	<meta name="description" content="Bio de ExostFlash pour en savoir plus sur lui !">
+	<meta name="keywords" content="ExostFlash biolink code escrime discord insta bio">
+	<meta name="author" content="ExostFlash">
+
 	<!-- Meta Data -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -23,7 +27,7 @@
 	<!-- Open Graph data -->
 	<meta property="og:title" content="BioLink" />
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="https://exostflash.ovh/BIOLINK/Maizy_A" />
+	<meta property="og:url" content="https://exostflash.ovh/BIOLINK/ExostFlash" />
 	<meta property="og:image" content="assets/images/favicons/apple-touch-icon-144x144.png" />
 	<meta property="og:description" content="BioLink" />
 	<meta property="og:site_name" content="BioLink" />
@@ -36,7 +40,7 @@
 	<link rel="shortcut icon" href="/BIOLINK/IMG/favicons/favicon.png" type="image/png">
 
 	<!-- Styles -->
-	<link rel="stylesheet" type="text/css" href="assets/styles/style.css?v=21" />
+	<link rel="stylesheet" type="text/css" href="assets/styles/style.css?v=12" />
 	<link rel="stylesheet" type="text/css" href="assets/styles/style-dark.css?v=11" />
 
 	<script src="https://kit.fontawesome.com/dc1f03fbd3.js" crossorigin="anonymous"></script>
@@ -83,12 +87,12 @@
 					<div class="sidebar box shadow pb-0 sticky-column">
 						<svg class="avatar avatar--180" viewBox="0 0 188 188">
 							<g class="avatar__box">
-								<image xlink:href="assets/img/avatar/exostflash.png?v=1" height="100%" width="100%" />
+								<image xlink:href="assets/img/avatar/exostflash.png" height="100%" width="100%" />
 							</g>
 						</svg>
 						<div class="text-center">
-							<h3 class="title title--h3 sidebar__user-name"><span class="weight--500">Amaury</span> Maizy</h3>
-							<div class="badge badge--dark">IT student</div>
+							<h3 class="title title--h3 sidebar__user-name"><span class="weight--500"></span>ExostFlash</h3>
+							<div class="badge badge--dark">He/Him</div>
 
 							<!-- Social -->
 							<div class="scroll_social_overflow">
@@ -96,14 +100,35 @@
 									<a class="social__link" title="Linkedin" target="_blank" href="https://www.linkedin.com/in/amaury-maizy">
 										<i class="font-icon icon-linkedin2"></i>
 									</a>
-									<a class="social__link" title="GitHub" target="_blank" href="https://github.com/ExostFlashPRO">
+									<a class="social__link" title="GitHub" target="_blank" href="https://github.com/ExostFlash">
 										<i class="font-icon icon-github"></i></i>
 									</a>
-									<a class="social__link" title="Instagram" target="_blank" href="https://www.instagram.com/exostflash_pro/">
+									<a class="social__link" title="Instagram" target="_blank" href="https://www.instagram.com/exostflash/">
 										<i class="font-icon icon-instagram"></i>
 									</a>
 									<a class="social__link" title="Discord" target="_blank" href="https://discord.com/invite/zCDpgrW28F">
 										<i class="font-icon"><i class="fa-brands fa-discord"></i></i>
+									</a>
+									<a class="social__link" title="PayPal" target="_blank" href="https://www.paypal.com/paypalme/exostflash">
+										<i class="font-icon"><i class="fa-brands fa-paypal"></i></i>
+									</a>
+									<a class="social__link" title="FaceBook" target="_blank" href="https://www.facebook.com/ExostFlash2003">
+										<i class="font-icon icon-facebook"></i>
+									</a>
+									<a class="social__link" title="SnapChat" target="_blank" href="https://www.snapchat.com/add/exostflash2003">
+										<i class="font-icon"><i class="fa-brands fa-snapchat"></i></i>
+									</a>
+									<a class="social__link" title="TikTok" target="_blank" href="https://www.tiktok.com/@_exostflash_">
+										<i class="font-icon"><i class="fa-brands fa-tiktok"></i></i>
+									</a>
+									<a class="social__link" title="X" href="https://twitter.com/ExostFlash">
+										<i class="font-icon"><i class="fa-brands fa-x-twitter"></i></i>
+									</a>
+									<a class="social__link" title="Amazon" target="_blank" href="https://www.amazon.fr/hz/wishlist/ls/2PWFEW8ACVWPU?ref_=wl_share">
+										<i class="font-icon"><i class="fa-brands fa-amazon"></i></i>
+									</a>
+									<a class="social__link" title="OnlyFan" target="_blank" href="https://onlyfans.com/exostflash2">
+										<i class="font-icon"><i class="fa-brands fa-searchengin fa-flip"></i></i>
 									</a>
 								</div>
 							</div>
@@ -118,14 +143,14 @@
 									<i class="font-icon icon-location"></i>Toulouse, France
 								</li>
 								<li class="contacts-block__item" data-toggle="tooltip" data-placement="top" title="E-mail">
-									<a target="_blank" href="mailto:amaury.maizy@campus-igs-toulouse.fr"><i class="font-icon icon-envelope"></i>amaury.maizy@campus-igs-toulouse.fr</a>
+									<a target="_blank" href="mailto:exostflash@gmail.com"><i class="font-icon icon-envelope"></i>exostflash@gmail.com</a>
 								</li>
-								<li class="contacts-block__item" data-toggle="tooltip" data-placement="top" title="Téléphone" hidden>
+								<li class="contacts-block__item" data-toggle="tooltip" data-placement="top" title="Phone" hidden>
 									<i class="font-icon icon-phone"></i>+33 6.00.00.00.00
 								</li>
 							</ul>
 
-							<a class="btn" target="_blank" href=" assets/CV/amaurymaizy-CV_english.pdf"><i class="font-icon icon-download"></i> Download CV</a>
+							<a hidden class="btn" href="#"><i class="font-icon icon-download"></i> Download CV</a>
 						</div>
 					</div>
 				</aside>
@@ -143,8 +168,8 @@
 						</div>
 						<div class="inner-menu js-menu">
 							<ul class="nav">
-								<li class="nav__item"><a id="about" href="?lang=<?= $lang ?>&page=about">Presentation</a></li>
-								<li class="nav__item"><a id="resume" href="?lang=<?= $lang ?>&page=resume">Career</a></li>
+								<li class="nav__item"><a id="about" href="?lang=<?= $lang ?>&page=about">Présentation</a></li>
+								<li class="nav__item"><a id="resume" href="?lang=<?= $lang ?>&page=resume">Carrière</a></li>
 								<li class="nav__item"><a id="blog" href="?lang=<?= $lang ?>&page=blog">Blog</a></li>
 								<li class="nav__item"><a id="contact" href="?lang=<?= $lang ?>&page=contact">Contact</a></li>
 							</ul>

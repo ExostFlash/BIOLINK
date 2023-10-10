@@ -23,7 +23,7 @@
 	<!-- Open Graph data -->
 	<meta property="og:title" content="BioLink" />
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="https://exostflash.ovh/BIOLINK/ExostFlash" />
+	<meta property="og:url" content="https://exostflash.ovh/BIOLINK/Maizy_A" />
 	<meta property="og:image" content="assets/images/favicons/apple-touch-icon-144x144.png" />
 	<meta property="og:description" content="BioLink" />
 	<meta property="og:site_name" content="BioLink" />
@@ -54,6 +54,7 @@
 			<div class="preloader__progress"><span></span></div>
 		</div>
 	</div>
+
 	<center>
 		<select class="select" id="selectbox" data-selected="" onchange="changerLangue()">
 			<option value="" disabled="disabled">Sélectionnez une langue</option>

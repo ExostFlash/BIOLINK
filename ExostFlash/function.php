@@ -26,7 +26,7 @@
 			$mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
 			$mail->Port       = 587;
 
-			$mail->setFrom('postmaster@exostflash.ovh', 'noreply-ExostFlash');
+			$mail->setFrom('no-reply@exostflash.ovh', 'no-reply@exostflash.ovh');
 			$mail->addAddress($destinataire);
 
 			$mail->isHTML(true);
@@ -60,5 +60,3 @@
 		}
 		return $chaineAleatoire;
 	}
-
-?>

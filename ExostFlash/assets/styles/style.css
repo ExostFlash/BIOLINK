@@ -2752,3 +2752,16 @@ button:focus {
 }
 
 /*# sourceMappingURL=style.css.map */
+.select {
+  width: 30vh !important;
+  padding: 0.25em;
+  border-bottom: 1px solid currentcolor;
+  font-weight: bold;
+  letter-spacing: 0.15em;
+  text-align: center;
+}
+.select:focus,
+.select:active {
+  outline: 0;
+  border-bottom-color: red;
+}
