@@ -64,6 +64,20 @@
 		<div class="swiper-wrapper">
 
 			<!-- Item review -->
+			<div class="swiper-slide review-item" hidden>
+				<a title="" target="_blank" href="#">
+					<svg class="avatar avatar--80" viewBox="0 0 84 84">
+						<g class="avatar__hexagon">
+							<image xlink:href="assets/img/avatar/profil.png" height="100%" width="100%" />
+						</g>
+					</svg>
+					<h4 class="title title--h5">Nom</h4>
+				</a>
+				<p class="review-item__caption" style="color: red;">Poste - entreprise</p>
+				<p class="review-item__caption">Did you know that this testimonial was the best-kept secret of my resume? Soon, I will share it with you! Stay tuned!</p>
+			</div>
+
+			<!-- Item review -->
 			<div class="swiper-slide review-item">
 				<a title="Linkedin" target="_blank" href="https://fr.linkedin.com/in/jeanmarcbenito">
 					<svg class="avatar avatar--80" viewBox="0 0 84 84">
@@ -88,7 +102,7 @@
 					<h4 class="title title--h5">Véronique LACANETTE</h4>
 				</a>
 				<p class="review-item__caption" style="color: red;">Training Manager - IPI Toulouse</p>
-				<p class="review-item__caption">Did you know that this testimonial was the best-kept secret of my resume? Soon, I will share it with you! Stay tuned!</p>
+				<p class="review-item__caption">Amaury is a serious and motivated learner. He is passionate about IT and gets involved in all the group work offered to him. He does not hesitate to also get involved in personal projects, which means that he acquired solid knowledge during his first year at the IPI. Always pleasant, smiling and in a good mood, I had a lot of pleasure accompanying him during this first year of study.</p>
 			</div>
 
 			<!-- Item review -->

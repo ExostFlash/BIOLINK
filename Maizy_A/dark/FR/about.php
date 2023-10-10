@@ -64,6 +64,20 @@
 		<div class="swiper-wrapper">
 
 			<!-- Item review -->
+			<div class="swiper-slide review-item" hidden>
+				<a title="" target="_blank" href="#">
+					<svg class="avatar avatar--80" viewBox="0 0 84 84">
+						<g class="avatar__hexagon">
+							<image xlink:href="assets/img/avatar/profil.png" height="100%" width="100%" />
+						</g>
+					</svg>
+					<h4 class="title title--h5">Nom</h4>
+				</a>
+				<p class="review-item__caption" style="color: red;">Poste - entreprise</p>
+				<p class="review-item__caption">Saviez-vous que ce témoignage était le secret le mieux gardé de mon CV ? Bientôt, je le partagerai avec vous ! Restez à l'écoute!</p>
+			</div>
+
+			<!-- Item review -->
 			<div class="swiper-slide review-item">
 				<a title="Linkedin" target="_blank" href="https://fr.linkedin.com/in/jeanmarcbenito">
 					<svg class="avatar avatar--80" viewBox="0 0 84 84">
@@ -88,7 +102,7 @@
 					<h4 class="title title--h5">Véronique LACANETTE</h4>
 				</a>
 				<p class="review-item__caption" style="color: red;">Responsable Formation - IPI Toulouse</p>
-				<p class="review-item__caption">Saviez-vous que ce témoignage était le secret le mieux gardé de mon CV ? Bientôt, je le partagerai avec vous ! Restez à l'écoute!</p>
+				<p class="review-item__caption">Amaury est un apprenant sérieux et motivé. Il est passionné par l’informatique et s’implique dans tous les travaux de groupe qui lui sont proposés. Il n’hésite pas à s’investir également dans des projets personnels, ce qui fait qu’il a acquis de solides connaissances au cours de sa première année à l’IPI. Toujours agréable, souriant et de bonne humeur, j’ai eu beaucoup de plaisirs à l’accompagner au cours de cette première année d’étude.</p>
 			</div>
 
 			<!-- Item review -->
