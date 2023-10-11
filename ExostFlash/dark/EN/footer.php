@@ -21,7 +21,6 @@
 <script src="assets/js/jquery-3.4.1.min.js"></script>
 <script src="assets/js/plugins.min.js"></script>
 <script src="assets/js/common.js"></script>
-<script src="assets/js/mapbox.init.js"></script>
 <script src="https://www.google.com/recaptcha/enterprise.js?render=6LdD_jwoAAAAAJj_9MX791hv97UlzRps7w2ZOQQD"></script>
 
 <script>

@@ -105,8 +105,8 @@ html.is-scroll-disabled body {
 }
 
 .bg-triangles {
-  background-image: url(/SITE/BIOLINK/ExostFlash/assets/img/SVG/triangles-top.svg),
-    url(/SITE/BIOLINK/ExostFlash/assets/img/SVG/triangles-bottom.svg);
+  background-image: url(/BIOLINK/ExostFlash/assets/img/SVG/triangles-top.svg),
+    url(/BIOLINK/ExostFlash/assets/img/SVG/triangles-bottom.svg);
   background-position:
     left top,
     right bottom;
@@ -2751,7 +2751,6 @@ button:focus {
   height: 100%;
 }
 
-/*# sourceMappingURL=style.css.map */
 .select {
   width: 30vh !important;
   padding: 0.25em;

@@ -99,7 +99,7 @@
 							<image xlink:href="assets/img/avatar/lacanette.jpeg" height="100%" width="100%" />
 						</g>
 					</svg>
-					<h4 class="title title--h5">Véronique LACANETTE</h4>
+					<h4 class="title title--h5" style="font-size: 1.1675rem;">Véronique LACANETTE</h4>
 				</a>
 				<p class="review-item__caption" style="color: red;">Training Manager - IPI Toulouse</p>
 				<p class="review-item__caption">Amaury is a serious and motivated learner. He is passionate about IT and gets involved in all the group work offered to him. He does not hesitate to also get involved in personal projects, which means that he acquired solid knowledge during his first year at the IPI. Always pleasant, smiling and in a good mood, I had a lot of pleasure accompanying him during this first year of study.</p>

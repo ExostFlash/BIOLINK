@@ -99,7 +99,7 @@
 							<image xlink:href="assets/img/avatar/lacanette.jpeg" height="100%" width="100%" />
 						</g>
 					</svg>
-					<h4 class="title title--h5">Véronique LACANETTE</h4>
+					<h4 class="title title--h5" style="font-size: 1.1675rem;">Véronique LACANETTE</h4>
 				</a>
 				<p class="review-item__caption" style="color: red;">Responsable Formation - IPI Toulouse</p>
 				<p class="review-item__caption">Amaury est un apprenant sérieux et motivé. Il est passionné par l’informatique et s’implique dans tous les travaux de groupe qui lui sont proposés. Il n’hésite pas à s’investir également dans des projets personnels, ce qui fait qu’il a acquis de solides connaissances au cours de sa première année à l’IPI. Toujours agréable, souriant et de bonne humeur, j’ai eu beaucoup de plaisirs à l’accompagner au cours de cette première année d’étude.</p>

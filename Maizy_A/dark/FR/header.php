@@ -36,8 +36,8 @@
 	<link rel="shortcut icon" href="/BIOLINK/IMG/favicons/favicon.png" type="image/png">
 
 	<!-- Styles -->
-	<link rel="stylesheet" type="text/css" href="assets/styles/style.css?v=21" />
-	<link rel="stylesheet" type="text/css" href="assets/styles/style-dark.css?v=11" />
+	<link rel="stylesheet" type="text/css" href="assets/styles/style.css?v=2" />
+	<link rel="stylesheet" type="text/css" href="assets/styles/style-dark.css?v=2" />
 
 	<script src="https://kit.fontawesome.com/dc1f03fbd3.js" crossorigin="anonymous"></script>
 
