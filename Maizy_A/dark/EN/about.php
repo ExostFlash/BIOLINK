@@ -1,14 +1,14 @@
 <!-- About -->
 <div class="pb-0 pb-sm-2">
 	<h1 class="title title--h1 first-title title__separate">More about myself</h1>
-	<h4 class="title title--h4 first-title">Search Internship Feb. 2024</h4>
+	<h4 class="title title--h4 first-title">Looking for an internship Feb. 2024</h4>
 	<p>I am a computer science student aiming to become a developer in the future, with a strong preference for backend. A developer is not someone who repairs computers, you know!</p>
 	<p>Currently, I'm in my second year of computer school and I work in the restaurant industry on the side. I enjoy being alone or with the people I love. When I code, I often listen to music to help me focus on my work.</p>
 </div>
 
 <!-- What -->
 <div class="box-inner pb-0">
-	<h2 class="title title--h3">What I am capable of doing </h2>
+	<h2 class="title title--h3">Skills </h2>
 	<div class="row">
 		<!-- Case Item -->
 		<div class="col-12 col-lg-6">
@@ -16,7 +16,7 @@
 				<img class="case-item__icon" src="assets/img/SVG/php.png" alt="" />
 				<div>
 					<h3 class="title title--h5">PHP</h3>
-					<p class="case-item__caption">As I enjoy coding the Backend, I had to use PHP, and I find this language very versatile. You can do a lot of things with it, and even connect databases to the website.</p>
+					<p class="case-item__caption">Since I enjoy coding the Backend, I had to use PHP, and I find this language very versatile. You can do a lot of things with it, and even connect databases to the website.</p>
 				</div>
 			</div>
 		</div>
@@ -88,7 +88,7 @@
 					<h4 class="title title--h5">Jean-Marc BENITO</h4>
 				</a>
 				<p class="review-item__caption" style="color: red;">Director - IPI Toulouse</p>
-				<p class="review-item__caption">Did you know that this testimonial was the best-kept secret of my resume? Soon, I will share it with you! Stay tuned!</p>
+				<p class="review-item__caption">I am pleased to welcome Amaury to the IPI school’s Bachelor program. Since his first year, Amaury has shown seriousness, commitment and great motivation which suggest a future talented IT professional. What's more, his tireless curiosity and his interpersonal skills will enable him to meet all future challenges in software development; field for which he has a real passion.</p>
 			</div>
 
 			<!-- Item review -->

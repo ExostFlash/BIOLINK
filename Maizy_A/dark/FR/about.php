@@ -8,7 +8,7 @@
 
 <!-- What -->
 <div class="box-inner pb-0">
-	<h2 class="title title--h3">Ce que je suis capable de faire</h2>
+	<h2 class="title title--h3">Compétences</h2>
 	<div class="row">
 		<!-- Case Item -->
 		<div class="col-12 col-lg-6">
@@ -16,7 +16,7 @@
 				<img class="case-item__icon" src="assets/img/SVG/php.png" alt="" />
 				<div>
 					<h3 class="title title--h5">PHP</h3>
-					<p class="case-item__caption">Comme j'aime coder le Backend, j'ai dû utiliser PHP, et je trouve ce langage très polyvalent. Vous pouvez faire beaucoup de choses avec, et même connecter des bases de données au site Web.</p>
+					<p class="case-item__caption">Puisque j'aime coder le Backend, j'ai dû utiliser PHP, et je trouve ce langage très polyvalent. Vous pouvez faire beaucoup de choses avec, et même connecter des bases de données au site Web.</p>
 				</div>
 			</div>
 		</div>
@@ -88,7 +88,7 @@
 					<h4 class="title title--h5">Jean-Marc BENITO</h4>
 				</a>
 				<p class="review-item__caption" style="color: red;">Directeur - IPI Toulouse</p>
-				<p class="review-item__caption">Saviez-vous que ce témoignage était le secret le mieux gardé de mon CV ? Bientôt, je le partagerai avec vous ! Restez à l'écoute!</p>
+				<p class="review-item__caption">J’ai le plaisir d’accueillir Amaury au sein du Bachelor de l’école IPI. Depuis sa première année, Amaury fait preuve de sérieux, engagement et d’une grande motivation qui laissent présager d’un futur professionnel informatique de talent. Qui plus est, son infatigable curiosité et ses qualités relationnelles lui permettront de relever tous les défis à venir dans le développement logiciel ; domaine pour lequel il nourrit une vraie passion.</p>
 			</div>
 
 			<!-- Item review -->
