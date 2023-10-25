@@ -7,9 +7,9 @@ if (isset($_REQUEST['btn_contact'])) {
     $message = valid_donnees($_REQUEST['messageContact']);
 
 
-    $dest = "no-reply@exostflash.ovh";
+    $dest = "no-reply@ef-biolink.ovh";
     $objet = "Contact de " . $name . " via le site";
-    $contenu = "<br />Monsieur " . $name . " vous contacte via le site <a href='https://exostflash.ovh/BIOLINK/ExostFlash/'>BioLink ExostFlash</a>";
+    $contenu = "<br />Monsieur " . $name . " vous contacte via le site <a href='https://ef-biolink.ovh/ExostFlash/'>BioLink ExostFlash</a>";
     $contenu .= "<br /><br />Message : " . $message;
     $contenu .= "<br /><br />Mail de " . $name . " : <a href='mailto:" . $email . "'>" . $email . "</a>";
     $contenu .= "<br />Date du message : " . date("d/m/Y");
@@ -17,7 +17,7 @@ if (isset($_REQUEST['btn_contact'])) {
 
     $dest = $email;
     $objet = "E-mail de " . $name . " bien envoyer";
-    $contenu = "<br />Monsieur " . $name . " vous venez de contacter <b>Amaury MAIZY</b> via le site internet <a href='https://exostflash.ovh/BIOLINK/ExostFlash/'>BioLink ExostFlash</a>";
+    $contenu = "<br />Monsieur " . $name . " vous venez de contacter <b>Amaury MAIZY</b> via le site internet <a href='https://ef-biolink.ovh/ExostFlash/'>BioLink ExostFlash</a>";
     $contenu .= "<br /><br />Message : " . $message;
     $contenu .= "<br /><br />Date de publication : " . date("d/m/Y");
     sendmail($db, $objet, $contenu, $dest);
@@ -47,12 +47,12 @@ if (isset($_REQUEST['btn_inscription'])) {
         $recup = $recup->fetch();
         $id_user = $recup['id_user'];
 
-        $link = "https://www.exostflash.ovh/BIOLINK/validation/ExostFlash.php?member=" . $chaineAleatoire . "&id=" . $id_user . "&id_post=" . $id_post_page;
+        $link = "https://www.ef-biolink.ovh/validation/ExostFlash.php?member=" . $chaineAleatoire . "&id=" . $id_user . "&id_post=" . $id_post_page;
 
 
         $dest = $email_inscription;
         $objet = "Validation de l'inscription";
-        $contenu = "<br />Monsieur " . $nom . " vous venez de vous inscrire via le site <a href='https://www.exostflash.ovh/BIOLINK/ExostFlash/'>BioLink ExostFlash</a>";
+        $contenu = "<br />Monsieur " . $nom . " vous venez de vous inscrire via le site <a href='https://www.ef-biolink.ovh/ExostFlash/'>BioLink ExostFlash</a>";
         $contenu .= "<br /><br />Lien de validation : <a href='" . $link . "'>" . $link . "</a>";
         $contenu .= "<br /><br />Date de publication : " . date("d/m/Y");
         sendmail($db, $objet, $contenu, $dest);
@@ -60,14 +60,14 @@ if (isset($_REQUEST['btn_inscription'])) {
         echo "
 				<script language='javascript'>
 					javascript:alert('Vérifier vos e-mails! (potentiellement dans le spam aussi)');
-					javascript:window.location='/BIOLINK/ExostFlash/?lang=FR';
+					javascript:window.location='/ExostFlash/?lang=FR';
 				</script>
 				";
     } else {
         echo "
 				<script language='javascript'>
 					javascript:alert('Une erreur s'est produite ! essayer à nouveau');
-					javascript:window.location='/BIOLINK/ExostFlash/?lang=FR&page=account';
+					javascript:window.location='/ExostFlash/?lang=FR&page=account';
 				</script>
 				";
     }
@@ -86,14 +86,14 @@ if (isset($_REQUEST['btn_connexion'])) {
         echo "
 				<script language='javascript'>
 					javascript:alert('Connect');
-					javascript:window.location='/BIOLINK/ExostFlash/?lang=FR&page=single-post&id_post=" . $id_post_page . "';
+					javascript:window.location='/ExostFlash/?lang=FR&page=single-post&id_post=" . $id_post_page . "';
 				</script>
 				";
     } else {
         echo "
 				<script language='javascript'>
 					javascript:alert('Password Inccorect');
-					javascript:window.location='/BIOLINK/ExostFlash/?lang=FR&page=account&id_post=" . $id_post_page . "';
+					javascript:window.location='/ExostFlash/?lang=FR&page=account&id_post=" . $id_post_page . "';
 				</script>
 				";
     }
@@ -113,14 +113,14 @@ if (isset($_REQUEST['btn_message'])) {
     if ($stmt->execute()) {
         echo "
 				<script language='javascript'>
-					javascript:window.location='/BIOLINK/ExostFlash/?lang=FR&page=single-post&id_post=" . $id_post_page . "';
+					javascript:window.location='/ExostFlash/?lang=FR&page=single-post&id_post=" . $id_post_page . "';
 				</script>
 				";
     } else {
         echo "
 				<script language='javascript'>
 					javascript:alert('An error occured ! try again');
-					javascript:window.location='/BIOLINK/ExostFlash/?lang=FR&page=account';
+					javascript:window.location='/ExostFlash/?lang=FR&page=account';
 				</script>
 				";
     }

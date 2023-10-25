@@ -7,7 +7,7 @@ if (isset($_GET['id']) and isset($_GET['id_post'])) {
 	echo "
 			<script language='javascript'>
 				javascript:alert('Lien erroner');
-				javascript:window.location='/BIOLINK/';
+				javascript:window.location='/';
 			</script>
 			";
 }
@@ -25,7 +25,7 @@ if ($etat != "unactive") {
 	echo "
 			<script language='javascript'>
 				javascript:alert('Lien Expirer');
-				javascript:window.location='/BIOLINK/';
+				javascript:window.location='/';
 			</script>
 			";
 }
@@ -46,7 +46,7 @@ if (isset($_REQUEST['submit'])) {
 		echo "
 				<script language='javascript'>
 					javascript:alert('Good');
-					javascript:window.location='/BIOLINK/Maizy_A/?page=account&id_post=" . $id_post . "';
+					javascript:window.location='/Maizy_A/?page=account&id_post=" . $id_post . "';
 				</script>
 				";
 	} else {
@@ -66,7 +66,7 @@ if (isset($_REQUEST['submit'])) {
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<title>Validation - BioLink</title>
-	<link rel="icon" href="/BIOLINK/IMG/LOGO/biolink.png" />
+	<link rel="icon" href="/IMG/LOGO.png" />
 
 	<link rel="stylesheet" type="text/css" href="style.css">
 
@@ -106,7 +106,7 @@ if (isset($_REQUEST['submit'])) {
 		<div class="drop drop-3"></div>
 		<div class="drop drop-4">
 			<a href="/">
-				<img class="img-drop4" src="/BIOLINK/IMG/LOGO/biolink.png">
+				<img class="img-drop4" src="/IMG/LOGO.png">
 			</a>
 		</div>
 		<div class="drop drop-5"></div>

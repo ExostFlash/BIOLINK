@@ -9,7 +9,7 @@ if (isset($_REQUEST['btn_contact'])) {
 
     $dest = "no-reply@exostflash.ovh";
     $objet = "Contact de " . $name . " via le site";
-    $contenu = "<br />Monsieur " . $name . " vous contacte via le site <a href='https://exostflash.ovh/BIOLINK/Maizy_A/'>BioLink ExostFlash</a>";
+    $contenu = "<br />Monsieur " . $name . " vous contacte via le site <a href='https://ef-biolink.ovh/Maizy_A/'>BioLink ExostFlash</a>";
     $contenu .= "<br /><br />Message : " . $message;
     $contenu .= "<br /><br />Mail de " . $name . " : <a href='mailto:" . $email . "'>" . $email . "</a>";
     $contenu .= "<br />Date du message : " . date("d/m/Y");
@@ -17,7 +17,7 @@ if (isset($_REQUEST['btn_contact'])) {
 
     $dest = $email;
     $objet = "E-mail de " . $name . " bien envoyer";
-    $contenu = "<br />Monsieur " . $name . " vous venez de contacter <b>Amaury MAIZY</b> via le site internet <a href='https://exostflash.ovh/BIOLINK/Maizy_A/'>BioLink Maizy_A</a>";
+    $contenu = "<br />Monsieur " . $name . " vous venez de contacter <b>Amaury MAIZY</b> via le site internet <a href='https://ef-biolink.ovh/Maizy_A/'>BioLink Maizy_A</a>";
     $contenu .= "<br /><br />Message : " . $message;
     $contenu .= "<br /><br />Date de publication : " . date("d/m/Y");
     sendmail($db, $objet, $contenu, $dest);
@@ -47,12 +47,12 @@ if (isset($_REQUEST['btn_inscription'])) {
         $recup = $recup->fetch();
         $id_user = $recup['id_user'];
 
-        $link = "https://www.exostflash.ovh/BIOLINK/validation/Maizy_A.php?member=" . $chaineAleatoire . "&id=" . $id_user . "&id_post=" . $id_post_page;
+        $link = "https://www.ef-biolink.ovh/validation/Maizy_A.php?member=" . $chaineAleatoire . "&id=" . $id_user . "&id_post=" . $id_post_page;
 
 
         $dest = $email_inscription;
         $objet = "Validation de l'inscription";
-        $contenu = "<br />Monsieur " . $nom . " vous venez de vous inscrire via le site <a href='https://www.exostflash.ovh/BIOLINK/Maizy_A/'>BioLink Maizy_A</a>";
+        $contenu = "<br />Monsieur " . $nom . " vous venez de vous inscrire via le site <a href='https://www.ef-biolink.ovh/Maizy_A/'>BioLink Maizy_A</a>";
         $contenu .= "<br /><br />Lien de validation : <a href='" . $link . "'>" . $link . "</a>";
         $contenu .= "<br /><br />Date de publication : " . date("d/m/Y");
         sendmail($db, $objet, $contenu, $dest);

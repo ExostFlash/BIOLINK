@@ -27,17 +27,17 @@
 	<!-- Open Graph data -->
 	<meta property="og:title" content="BioLink" />
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="https://exostflash.ovh/BIOLINK/ExostFlash" />
+	<meta property="og:url" content="https://ef-biolink.ovh/ExostFlash" />
 	<meta property="og:image" content="assets/images/favicons/apple-touch-icon-144x144.png" />
 	<meta property="og:description" content="BioLink" />
 	<meta property="og:site_name" content="BioLink" />
 
 	<!-- Favicons -->
-	<link rel="apple-touch-icon" sizes="144x144" href="/BIOLINK/IMG/favicons/apple-touch-icon-144x144.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="/BIOLINK/IMG/favicons/apple-touch-icon-114x114.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="/BIOLINK/IMG/favicons/apple-touch-icon-72x72.png">
-	<link rel="apple-touch-icon" sizes="57x57" href="/BIOLINK/IMG/favicons/apple-touch-icon-57x57.png">
-	<link rel="shortcut icon" href="/BIOLINK/IMG/favicons/favicon.png" type="image/png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/IMG/favicons/apple-touch-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/IMG/favicons/apple-touch-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/IMG/favicons/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="57x57" href="/IMG/favicons/apple-touch-icon-57x57.png">
+	<link rel="shortcut icon" href="/IMG/favicons/favicon.png" type="image/png">
 
 	<!-- Styles -->
 	<link rel="stylesheet" type="text/css" href="assets/styles/style.css?v=2" />
