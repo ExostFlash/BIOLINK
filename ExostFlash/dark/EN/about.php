@@ -137,6 +137,17 @@
 				<h4 class="title title--h5">La Batterie</h4>
 				<p class="review-item__caption">Une batterie qui n'a pas de batterie n'est pas une batterie.</p>
 			</div>
+
+			<!-- Item review -->
+			<div class="swiper-slide review-item">
+				<svg class="avatar avatar--80" viewBox="0 0 84 84">
+					<g class="avatar__hexagon">
+						<image xlink:href="assets/img/avatar/humour.jpeg" height="100%" width="100%" />
+					</g>
+				</svg>
+				<h4 class="title title--h5">Humor</h4>
+				<p class="review-item__caption">Humor, by its nature, has the potential to trigger metamorphosis, thereby transforming perception and experience.</p>
+			</div>
 		</div>
 
 		<div class="swiper-pagination"></div>
