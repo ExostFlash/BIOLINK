@@ -105,8 +105,8 @@ html.is-scroll-disabled body {
 }
 
 .bg-triangles {
-  background-image: url(/BIOLINK/ExostFlash/assets/img/SVG/triangles-top.svg),
-    url(/BIOLINK/ExostFlash/assets/img/SVG/triangles-bottom.svg);
+  background-image: url(/ExostFlash/assets/img/SVG/triangles-top.svg),
+    url(/ExostFlash/assets/img/SVG/triangles-bottom.svg);
   background-position:
     left top,
     right bottom;

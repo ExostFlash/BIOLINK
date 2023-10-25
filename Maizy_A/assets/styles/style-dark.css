@@ -242,7 +242,7 @@ select option,
 }
 
 .block-quote::before {
-  background-image: url(/BIOLINK/Maizy_A/assets/img/SVG/icon-quote.svg);
+  background-image: url(/Maizy_A/assets/img/SVG/icon-quote.svg);
 }
 .block-quote__author::before {
   background-color: #f0f0f6;
@@ -394,7 +394,7 @@ a:hover {
 ----------------------------------------------------------------- */
 .review-item {
   background-color: #2c283a;
-  background-image: url(/BIOLINK/Maizy_A/assets/img/SVG/icon-quote.svg);
+  background-image: url(/Maizy_A/assets/img/SVG/icon-quote.svg);
 }
 .review-item__caption {
   color: #dedde0;

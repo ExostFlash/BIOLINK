@@ -105,8 +105,8 @@ html.is-scroll-disabled body {
 }
 
 .bg-triangles {
-  background-image: url(/BIOLINK/Maizy_A/assets/img/SVG/triangles-top.svg),
-    url(/BIOLINK/Maizy_A/assets/img/SVG/triangles-bottom.svg);
+  background-image: url(/Maizy_A/assets/img/SVG/triangles-top.svg),
+    url(/Maizy_A/assets/img/SVG/triangles-bottom.svg);
   background-position:
     left top,
     right bottom;
