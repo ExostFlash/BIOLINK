@@ -21,18 +21,7 @@
 <script src="assets/js/jquery-3.4.1.min.js"></script>
 <script src="assets/js/plugins.min.js"></script>
 <script src="assets/js/common.js"></script>
-<script src="https://www.google.com/recaptcha/enterprise.js?render=6Lcu8dwoAAAAAHaDYVjA5wGvJfSjXM3p8FqOfOki"></script>
 
-<script>
-    function onClick(e) {
-        e.preventDefault();
-        grecaptcha.enterprise.ready(async () => {
-            const token = await grecaptcha.enterprise.execute('6Lcu8dwoAAAAAHaDYVjA5wGvJfSjXM3p8FqOfOki', {
-                action: 'LOGIN'
-            });
-        });
-    }
-</script>
 <script type="text/javascript">
     // Date de naissance au format "jour mois année"
     var dateNaissance = new Date("2003-12-04");
