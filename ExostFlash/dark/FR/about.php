@@ -69,7 +69,7 @@
 					</g>
 				</svg>
 				<h4 class="title title--h5">Spider-Man</h4>
-				<p class="review-item__caption">Spider-Man c'est l'araignée sympas du quartier et moi je suis la pute sympas de l'univers !</p>
+				<p class="review-item__caption">Spider-Man, c'est l'araignée sympa du quartier, et moi je suis le gars sympa de l'univers !</p>
 			</div>
 
 			<!-- Item review -->
