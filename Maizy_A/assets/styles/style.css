@@ -105,11 +105,9 @@ html.is-scroll-disabled body {
 }
 
 .bg-triangles {
-  background-image: url(/Maizy_A/assets/img/SVG/triangles-top.svg),
-    url(/Maizy_A/assets/img/SVG/triangles-bottom.svg);
-  background-position:
-    left top,
-    right bottom;
+  background-image: url(../img/SVG/triangles-top.svg),
+    url(../img/SVG/triangles-bottom.svg);
+  background-position: left top, right bottom;
   background-repeat: no-repeat;
   background-size: inherit;
 }
@@ -121,9 +119,7 @@ html.is-scroll-disabled body {
 .bg-triangles-2 {
   background-image: url(https://art-template.ru/vcard1/assets/images/triangle-2-top.svg),
     url(https://art-template.ru/vcard1/assets/images/triangle-2-bottom.svg);
-  background-position:
-    right top,
-    left bottom;
+  background-position: right top, left bottom;
   background-repeat: no-repeat;
   background-size: 50%;
   background-attachment: fixed;
@@ -755,8 +751,7 @@ select option,
   padding: 0.25rem 0.5625rem 0.25rem;
   background-color: #44566c;
   border-radius: 0.25rem;
-  box-shadow:
-    0 1rem 2rem rgba(134, 151, 168, 0.25),
+  box-shadow: 0 1rem 2rem rgba(134, 151, 168, 0.25),
     0 0.125rem 1rem rgba(134, 151, 168, 0.5);
 }
 .tooltip.show {
@@ -791,8 +786,7 @@ select option,
   background-color: #fd3030;
   border-radius: 20px;
   border: 0;
-  box-shadow:
-    0 0.5rem 1rem rgba(253, 48, 48, 0.15),
+  box-shadow: 0 0.5rem 1rem rgba(253, 48, 48, 0.15),
     0 0.125rem 0.25rem rgba(253, 48, 48, 0.15);
   color: #fff;
   cursor: pointer;
@@ -810,14 +804,12 @@ select option,
   opacity: 0.9;
 }
 .btn:focus {
-  box-shadow:
-    0 1.5rem 2.5rem rgba(253, 48, 48, 0.1),
+  box-shadow: 0 1.5rem 2.5rem rgba(253, 48, 48, 0.1),
     0 0.5rem 1rem rgba(253, 48, 48, 0.1);
 }
 .btn::before {
   content: "";
-  box-shadow:
-    0 0.25rem 2rem rgba(253, 48, 48, 0.25),
+  box-shadow: 0 0.25rem 2rem rgba(253, 48, 48, 0.25),
     0 0.25rem 1rem rgba(253, 48, 48, 0.25);
   margin: 0 auto;
   height: 1rem;
@@ -1520,8 +1512,7 @@ button:focus {
   color: #fff;
   background: #fd3030;
   border-radius: 2rem 0 0 2rem;
-  box-shadow:
-    0 1.5rem 2.5rem rgba(253, 48, 48, 0.05),
+  box-shadow: 0 1.5rem 2.5rem rgba(253, 48, 48, 0.05),
     0 0.5rem 1rem rgba(253, 48, 48, 0.05);
   display: flex;
   align-items: center;

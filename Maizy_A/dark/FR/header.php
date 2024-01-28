@@ -23,21 +23,21 @@
 	<!-- Open Graph data -->
 	<meta property="og:title" content="BioLink" />
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="https://ef-biolink.ovh/Maizy_A" />
+	<meta property="og:url" content="https://biolink.teamflash.fr/Maizy_A" />
 	<meta property="og:image" content="assets/images/favicons/apple-touch-icon-144x144.png" />
 	<meta property="og:description" content="BioLink" />
 	<meta property="og:site_name" content="BioLink" />
 
 	<!-- Favicons -->
-	<link rel="apple-touch-icon" sizes="144x144" href="/IMG/favicons/apple-touch-icon-144x144.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="/IMG/favicons/apple-touch-icon-114x114.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="/IMG/favicons/apple-touch-icon-72x72.png">
-	<link rel="apple-touch-icon" sizes="57x57" href="/IMG/favicons/apple-touch-icon-57x57.png">
-	<link rel="shortcut icon" href="/IMG/favicons/favicon.png" type="image/png">
+	<link rel="apple-touch-icon" sizes="144x144" href="../IMG/favicons/apple-touch-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="../IMG/favicons/apple-touch-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="../IMG/favicons/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="57x57" href="../IMG/favicons/apple-touch-icon-57x57.png">
+	<link rel="shortcut icon" href="../IMG/favicons/favicon.png" type="image/png">
 
 	<!-- Styles -->
-	<link rel="stylesheet" type="text/css" href="assets/styles/style.css?v=2" />
-	<link rel="stylesheet" type="text/css" href="assets/styles/style-dark.css?v=2" />
+	<link rel="stylesheet" type="text/css" href="assets/styles/style.css?v=5" />
+	<link rel="stylesheet" type="text/css" href="assets/styles/style-dark.css?v=5" />
 
 	<script src="https://kit.fontawesome.com/dc1f03fbd3.js" crossorigin="anonymous"></script>
 
@@ -94,13 +94,13 @@
 							<div class="scroll_social_overflow">
 								<div class="social scroll_social">
 									<a class="social__link" title="Linkedin" target="_blank" href="https://www.linkedin.com/in/amaury-maizy">
-										<i class="font-icon icon-linkedin2"></i>
+										<i class="font-icon"><i class="fa-brands fa-linkedin-in"></i></i>
 									</a>
 									<a class="social__link" title="GitHub" target="_blank" href="https://github.com/ExostFlashPRO">
-										<i class="font-icon icon-github"></i></i>
+										<i class="font-icon"><i class="fa-brands fa-github"></i></i>
 									</a>
 									<a class="social__link" title="Instagram" target="_blank" href="https://www.instagram.com/exostflash_pro/">
-										<i class="font-icon icon-instagram"></i>
+										<i class="font-icon"><i class="fa-brands fa-instagram"></i></i>
 									</a>
 									<a class="social__link" title="Discord" target="_blank" href="https://discord.com/invite/zCDpgrW28F">
 										<i class="font-icon"><i class="fa-brands fa-discord"></i></i>
@@ -112,20 +112,20 @@
 						<div class="sidebar__info box-inner">
 							<ul class="contacts-block">
 								<li class="contacts-block__item" data-toggle="tooltip" data-placement="top" title="Anniversaire">
-									<i class="font-icon icon-calendar"></i>04/12/2003&nbsp; <span id="age">(age)</span>
+									<i class="font-icon"><i class="fa-solid fa-calendar-days"></i></i>04/12/2003&nbsp; <span id="age">(age)</span>
 								</li>
 								<li class="contacts-block__item" data-toggle="tooltip" data-placement="top" title="Adresse">
-									<i class="font-icon icon-location"></i>Toulouse, France
+									<i class="font-icon"><i class="fa-solid fa-location-dot"></i></i>Toulouse, France
 								</li>
 								<li class="contacts-block__item" data-toggle="tooltip" data-placement="top" title="E-mail">
-									<a target="_blank" href="mailto:amaury.maizy@campus-igs-toulouse.fr"><i class="font-icon icon-envelope"></i>amaury.maizy@campus-igs-toulouse.fr</a>
+									<a target="_blank" href="mailto:amaury.maizy@teamflash.fr"><i class="font-icon"><i class="fa-solid fa-envelope"></i></i>amaury.maizy@teamflash.fr</a>
 								</li>
 								<li class="contacts-block__item" data-toggle="tooltip" data-placement="top" title="Téléphone" hidden>
 									<i class="font-icon icon-phone"></i>+33 6.00.00.00.00
 								</li>
 							</ul>
 
-							<a class="btn" target="_blank" href=" assets/CV/amaurymaizy-CV_francais.pdf"><i class="font-icon icon-download"></i> Télécharger CV</a>
+							<a class="btn" target="_blank" href=" assets/CV/amaurymaizy-CV_francais.pdf"><i class="font-icon"><i class="fa-solid fa-download"></i></i> Télécharger CV</a>
 						</div>
 					</div>
 				</aside>
@@ -145,7 +145,6 @@
 							<ul class="nav">
 								<li class="nav__item"><a id="about" href="?lang=<?= $lang ?>&page=about">Présentation</a></li>
 								<li class="nav__item"><a id="resume" href="?lang=<?= $lang ?>&page=resume">Carrière</a></li>
-								<li class="nav__item"><a id="blog" href="?lang=<?= $lang ?>&page=blog">Blog</a></li>
 								<li class="nav__item"><a id="contact" href="?lang=<?= $lang ?>&page=contact">Contact</a></li>
 							</ul>
 						</div>

@@ -7,13 +7,18 @@
 
 <form method="post">
 	<div class="row">
-		<div class="form-group col-12 col-md-6">
-			<i class="font-icon icon-user"></i>
-			<input type="text" class="input input__icon form-control" id="nameContact" name="nameContact" placeholder="Nom et prénom" required="required" autocomplete="on" oninvalid="setCustomValidity('Remplissez le champ')" onkeyup="setCustomValidity('')">
+		<div class="form-group col-12 col-md-4">
+			<i class="font-icon"><i class="fa-solid fa-user"></i></i>
+			<input type="text" class="input input__icon form-control" id="nomContact" name="nomContact" placeholder="Nom" required="required" autocomplete="on" oninvalid="setCustomValidity('Remplissez le champ')" onkeyup="setCustomValidity('')">
 			<div class="help-block with-errors"></div>
 		</div>
-		<div class="form-group col-12 col-md-6">
-			<i class="font-icon icon-envelope"></i>
+		<div class="form-group col-12 col-md-4">
+			<i class="font-icon"><i class="fa-solid fa-user"></i></i>
+			<input type="text" class="input input__icon form-control" id="prenomContact" name="prenomContact" placeholder="Prénom" required="required" autocomplete="on" oninvalid="setCustomValidity('Remplissez le champ')" onkeyup="setCustomValidity('')">
+			<div class="help-block with-errors"></div>
+		</div>
+		<div class="form-group col-12 col-md-4">
+			<i class="font-icon"><i class="fa-solid fa-envelope"></i></i>
 			<input type="email" class="input input__icon form-control" id="emailContact" name="emailContact" placeholder="Adresse e-mail" required="required" autocomplete="on" oninvalid="setCustomValidity('L\'e-mail est incorrect')" onkeyup="setCustomValidity('')">
 			<div class="help-block with-errors"></div>
 		</div>
@@ -28,7 +33,7 @@
 			Vérifiez votre E-Mail, on ne sait jamais ^^
 		</div>
 		<div class="col-12 col-md-6 order-1 order-md-2 text-right">
-			<button name="btn_contact" type="submit" class="btn" style="margin-bottom: 5%;"><i class="font-icon icon-send"></i> Envoyer le message</button>
+			<button name="btn_contact" type="submit" class="btn" style="margin-bottom: 5%;"><i class="font-icon"><i class="fa-solid fa-paper-plane"></i></i> Envoyer le message</button>
 		</div>
 	</div>
 </form>

@@ -129,8 +129,8 @@
 
 										<!-- Progress -->
 										<div class="progress">
-											<div class="progress-bar" role="progressbar" aria-valuenow="35" aria-valuemin="0" aria-valuemax="100">
-												<div class="progress-text"><span>JavaScript</span><span>35%</span></div>
+											<div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">
+												<div class="progress-text"><span>JavaScript</span><span>50%</span></div>
 											</div>
 											<div class="progress-text"><span>JavaScript</span></div>
 										</div>
